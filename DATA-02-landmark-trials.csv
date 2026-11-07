@@ -1,0 +1,24 @@
+nct_id,acronym,tier,phase,design,status,completion_date,results_posted,ongoing,reports_race,analysis
+NCT00294671,,A,PHASE2/PHASE3,randomized,COMPLETED,2012-12,True,no,yes,excluded: mixed cardiomyopathy and polyneuropathy
+NCT02510261,,B2,PHASE3,open-label extension,COMPLETED,2022-11-23,True,no,yes,excluded: open-label extension
+NCT02791230,,B2,PHASE3,open-label extension,COMPLETED,2023-11-02,True,no,yes,excluded: open-label extension
+NCT02319005,,A,PHASE3,randomized,COMPLETED,2017-03-30,True,no,yes,excluded: pathogenic TTR variant carriers only
+NCT03481972,,A,PHASE3,randomized,COMPLETED,2023-06-22,False,no,no,not analyzed: race not reported
+NCT04988386,AG10,B2,PHASE3,open-label extension,ACTIVE_NOT_RECRUITING,2028-05-15,False,yes,no,not analyzed: race not reported
+NCT05442047,,B1,PHASE2,randomized,COMPLETED,2025-05-13,False,no,no,not analyzed: race not reported
+NCT05667493,,B2,PHASE3,open-label extension,ENROLLING_BY_INVITATION,2029-08,False,yes,no,not analyzed: race not reported
+NCT06128629,,A,PHASE3,randomized,RECRUITING,2028-04,False,yes,no,not analyzed: race not reported
+NCT06183931,DepleTTR-CM,A,PHASE3,randomized,ACTIVE_NOT_RECRUITING,2028-04-05,False,yes,no,not analyzed: race not reported
+NCT06679946,,B2,PHASE3,open-label extension,ENROLLING_BY_INVITATION,2028-03-31,False,yes,no,not analyzed: race not reported
+NCT07052903,,A,PHASE3,randomized,RECRUITING,2032-11-30,False,yes,no,not analyzed: race not reported
+NCT07116473,,B2,PHASE3,open-label extension,NOT_YET_RECRUITING,2037-12,False,yes,no,not analyzed: race not reported
+NCT07207811,CLEOPATTRA,A,PHASE3,randomized,RECRUITING,2029-06-29,False,yes,no,not analyzed: race not reported
+NCT07306949,ATTR-CM,B2,PHASE4,nonrandomized open-label,RECRUITING,2028-03-31,False,yes,no,not analyzed: race not reported
+NCT07608354,ATTRiumph,B1,PHASE2,randomized,ACTIVE_NOT_RECRUITING,2029-02-06,False,yes,no,not analyzed: race not reported
+NCT07695701,ASCEND-ATTR,B2,PHASE4,nonrandomized open-label,RECRUITING,2030-11,False,yes,no,not analyzed: race not reported
+NCT07789483,LTSAFE-ALXN,B2,PHASE3,open-label extension,NOT_YET_RECRUITING,2030-07-11,False,yes,no,not analyzed: race not reported
+NCT01994889,ATTR-ACT,A,PHASE3,randomized,COMPLETED,2018-02-07,True,no,yes,pooled
+NCT03860935,ATTRibute-CM,A,PHASE3,randomized,COMPLETED,2023-05-11,True,no,yes,pooled
+NCT03997383,,A,PHASE3,randomized,COMPLETED,2025-12-24,True,no,yes,pooled
+NCT04136171,,A,PHASE3,randomized,COMPLETED,2026-08-12,False,no,yes,pooled
+NCT04153149,,A,PHASE3,randomized,ACTIVE_NOT_RECRUITING,2026-12-02,True,yes,yes,pooled
